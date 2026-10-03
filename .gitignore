@@ -1,0 +1,9 @@
+# Cached HTML (hundreds of files, not evidence)
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
